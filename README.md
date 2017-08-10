@@ -1,5 +1,10 @@
-# LSSTDarkMatter
-A repo to go along with the [LSST DESC April 2017 Hack Week](https://confluence.slac.stanford.edu/display/LSSTDESC/Hack+Week%3A+April+3-7+2017+-+FNAL) project on: [How can LSST/DESC contribute to understanding the fundamental nature of dark matter?](https://confluence.slac.stanford.edu/display/LSSTDESC/Hack+Week%3A+April+3-7+2017+-+Dark+Matter+Hack).
+# LSSTDarkMatter Introduction
+This repo was originally created to go along with the [LSST DESC April 2017 Hack Week](https://confluence.slac.stanford.edu/display/LSSTDESC/Hack+Week%3A+April+3-7+2017+-+FNAL) project on: [How can LSST/DESC contribute to understanding the fundamental nature of dark matter?](https://confluence.slac.stanford.edu/display/LSSTDESC/Hack+Week%3A+April+3-7+2017+-+Dark+Matter+Hack).
+
+Starting with the [2017 LSST Community & Project Workshop](https://project.lsst.org/meetings/lsst2017/), this has since been opened up to the broader LSST science community. This workshop included a session on [Dark Matter Science with LSST](https://project.lsst.org/meetings/lsst2017/session/dark-matter-science-lsst).
+
+# LSST DESC April 2017 Hack Week
+As noted above, this repo was originally created to go along with the [LSST DESC April 2017 Hack Week](https://confluence.slac.stanford.edu/display/LSSTDESC/Hack+Week%3A+April+3-7+2017+-+FNAL) project on: [How can LSST/DESC contribute to understanding the fundamental nature of dark matter?](https://confluence.slac.stanford.edu/display/LSSTDESC/Hack+Week%3A+April+3-7+2017+-+Dark+Matter+Hack). The following subsections 
 
 ## Goal for the Week
 In the DESC science roadmap it says "The DESC is one aspect of this community effort, focused principally on the use of LSST to study observable signatures of “dark sector" physics, including dark energy, dark matter, neutrinos, and signatures of inflation." In this hack session we would like to explore the various ways that DESC could probe the fundamental nature of dark matter with LSST. The goal would be 1-2 days of brainstorming the science and feasibility, followed by a few days working towards fleshing out a "white paper/roadmap" that could be submitted for a "dark matter" working group.
